@@ -10,7 +10,10 @@
 ## Enabled function:
 
 
-1. View a list of items;
+  
+  
+  
+  1. View a list of items;
 
   2.Create inventory items;
 

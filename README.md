@@ -7,12 +7,10 @@
 
 ## Using SSM, MyQSL
 ## Tomcat, IntelliJ IDEA, JDK, MAVEN
-## Enabled function:
 
 
-  
-  
-  
+
+ Enabled function:
   1. View a list of items;
 
   2.Create inventory items;
